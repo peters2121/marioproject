@@ -1,0 +1,83 @@
+header{
+    text-align: center;
+    background-color: red;
+    padding: 2px ;
+}
+header h1{
+   display: inline-block;
+    color: white;
+    border: 8px solid white;
+    border-radius: 30px;
+    padding: 3px 6px;
+}
+.banner img{
+    max-width: 100%;
+    position: relative;
+}
+.banner h3{
+    font-size: 76px;
+    background-color: transparent;
+    color: white;
+    position: absolute;
+    left: 5px;
+    top: 50%;
+}
+.navi{
+    background-color: grey;
+    padding: 20px;
+}
+.navi ul{
+    margin: 0 auto;
+    max-width: 1200px;
+    white-space: nowrap;
+}
+.navi li{
+    color: red;
+    width: 25%;
+    font-size: 20px;
+    display: inline-block;
+
+}
+.itis h2{
+    font-size: 20px;
+    color: red;
+}
+.itis p{
+    color: rosybrown;
+    font-size: 15px;
+}
+.itis img{
+    max-width: 50%;
+    margin: 0 300px;
+}
+.join{
+    text-align: center;
+}
+.join h2{
+    color: green;
+}
+.join input{
+    border-radius: 15px;
+}
+footer{
+    background-color: red;
+    margin:20px;
+    padding: 10px;
+}
+.aye:hover{
+    position: relative;
+    top: 10px;
+}
+.ayee:hover{
+    position: relative;
+    top: 6px;
+}
+.emma{
+    text-align: center;
+}
+footer p{
+    margin: 0 ;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+}
